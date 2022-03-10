@@ -6,6 +6,11 @@ module.exports = {
             firsName: 'John',
             lastName: 'Doe',
             email: 'example@example.com',
+            password: '123456',
+            address: 'USA',
+            gender: 1,
+            typeRole: 'ROLE',
+            keyRole: 'R1',
             createdAt: new Date(),
             updatedAt: new Date()
         }]);
